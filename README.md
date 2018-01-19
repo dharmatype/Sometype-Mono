@@ -1,5 +1,4 @@
 # Sometype Mono / Monospaced font family
-======================
 
 Sometype Mono is a monospaced font family for coding and tabular layout.  
 Consists of 4 styles so far.
