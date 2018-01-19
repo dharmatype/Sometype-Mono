@@ -1,8 +1,4 @@
-# Sometype Mono
-Sometype Mono / Monospaced font
-
-
-Sometype Mono Font
+#Sometype Mono / Monospaced font
 ======================
 
 Sometype Mono is a monospaced font for coding and tabular layout.
