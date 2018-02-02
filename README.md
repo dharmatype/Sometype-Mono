@@ -18,7 +18,6 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 ## Images
 
 
-
 ![/documents/img/SometypeMono_001.png](/documents/img/SometypeMono_001.png)|![/documents/img/SometypeMono_002.png](/documents/img/SometypeMono_002.png)|![/documents/img/SometypeMono_010.png](/documents/img/SometypeMono_010.png)
 ----|---- |----
 ![/documents/img/SometypeMono_005.png](/documents/img/SometypeMono_005.png)|![/documents/img/SometypeMono_006.png](/documents/img/SometypeMono_006.png)|![/documents/img/SometypeMono_003.png](/documents/img/SometypeMono_003.png)
