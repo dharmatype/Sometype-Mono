@@ -1,16 +1,12 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"Composer Com Complex Mono\012\012Therorical Lunchbox\012\012Quoter Mono\012Quotation Mono\012\012Monocromanucnu\012\012Mono \012\012Callback Mono\012\012Vergile Chronicle\012\012Romantica Mono Thorg\012\012A\U00C6BCDEFGHIJKLtMN/Eng O/OE P\U00DEQRS/Germandbls TUVWXYZ\012a\U00E6bcd\U00F0efghi/idotless j/jdotless k/kgreenlandic lmn/eng o/oe p\U00FEqrs\U00DFtuvwxyzo 0123456978\012\012Bianchi WILD\012\012THE QUICK BROWN FOX JUMPS OVER A LAZY DOG\012The quick brown fox jumps over a lazy dog\012\012traverse WIMWIM\012\012bicycles works 2018\012\012Sam Hillbone Jr Saint Crouse Tour 2019\012\012The quick brown fox jumps over a lazy dog. HTTP:WWW/kgreenlandic cknuknucnu.\012www.http\012iron works vintage\012\012heavy rotational Fire Light Coffee Kinshysa\012Architecture Giblian Baseball Emerald Hillbonesv Jr\012Sam Hillbone sam hillbone Yellow Sabmirine\012The secret window Cline smith Junior High Society \012Northern Eastern Questions j Quality Redvil le\012 REOORE ROPE Sherlock Hormes weights La La Land\012Miligan GRU/Germandbls E Omega Organic\012sam hillbone rivendell bicycle works bziting\012ABC/Germandbls ODE FGSHIJKLAMNOBPQRsCESOGCLTAUVWXTIYZ\012 E nglish cCGOaKkJBEAODFLXEKHIl\012abcdefghijklmnopqrs\U00DFtcbnuvwxnjoyz\012oacdn \0120C12C34756789\01200000 Ss03OCU2\012P010023456789\012 P6696023B60238041 Bianchi 2670778899\012 unhocefgijkmnlabdpqnunuuttnunou12603 + 20\U00D818\012knnkuu\012nrasanhoecdpq/ringcomb \U00E5b b6 FU\012\012input function 'cherry'\012output print \"supermix\" \012javascript\012load return\012embedding #002015 color html HEAD\012img scr=\"//img//photo.png\"\012\012widebinder\012\012/backslash documentclass{standalone}\012/backslash usepackage{amsmath}\012/backslash usepackage{listings}\012/backslash usepackage{color}\012/backslash definecolor{hskeyword}{rgb}{0,0,0.5}\012/backslash lstdefinestyle{myhscode2}{\012  language=Haskell,\012  basicstyle=/backslash ttfamily,\012  keywordstyle=/backslash color{hskeyword},\012  keywordstyle=/backslash color{hskeyword},\012  columns=fullflexible,\012  otherkeywords={}, %  =>  otherkeywords  literate \012  literate=*{..}{{./backslash kern-2pt.}}{2}\012            {::}{{:/backslash kern-2pt:}}{2}\012            {->}{{-/backslash kern-2.5pt>}}{2}\012            {=>}{{=/backslash kern-2.5pt>}}{2},\012  keepspaces\012}\012/backslash begin{document}\012/backslash begin{lstlisting}[style=myhscode2]\012elem :: (Eq a) => a -> [a] -> Bool\012elem _ [] = False\012elem x (y:ys) | x == y = True\012              | otherwise = elem x ys\012/backslash end{lstlisting}\012/backslash end{document}\012\012The tiny book show",
-S
-);
 classes = (
 {
 code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Germandbls";
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2017 by Ryoichi Tsunekawa. All rights reserved.";
+copyright = "Copyright © 2018 Sometype Mono Project Authors (https://github.com/dharmatype/Sometype-Mono)";
 customParameters = (
 {
 name = fsType;
@@ -50,7 +46,7 @@ space
 },
 {
 name = note;
-value = "Check “Scale to UPM” in Instance before Export for TTF";
+value = "Add “Scale to UPM 2048” in Instance before Export for TTF, If necessary.";
 },
 {
 name = "Disable Last Change";
@@ -146819,10 +146815,6 @@ value = (
 "2",
 "4"
 );
-},
-{
-name = "Scale to UPM";
-value = "2048";
 }
 );
 interpolationWeight = 72;
@@ -146852,10 +146844,6 @@ value = (
 "2",
 "4"
 );
-},
-{
-name = "Scale to UPM";
-value = "2048";
 }
 );
 interpolationWeight = 90;
@@ -146888,10 +146876,6 @@ value = (
 "2",
 "4"
 );
-},
-{
-name = "Scale to UPM";
-value = "2048";
 }
 );
 interpolationWeight = 118;

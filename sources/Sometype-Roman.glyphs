@@ -1,16 +1,12 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-S,
-S
-);
 classes = (
 {
 code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Germandbls";
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2017 by Ryoichi Tsunekawa. All rights reserved.";
+copyright = "Copyright © 2018 Sometype Mono Project Authors (https://github.com/dharmatype/Sometype-Mono)";
 customParameters = (
 {
 name = fsType;
@@ -50,7 +46,7 @@ space
 },
 {
 name = note;
-value = "Check “Scale to UPM” in Instance before Export for TTF";
+value = "Add “Scale to UPM 2048” in Instance before Export for TTF, If necessary.";
 },
 {
 name = "Disable Last Change";
@@ -63652,10 +63648,6 @@ value = (
 "2",
 "4"
 );
-},
-{
-name = "Scale to UPM";
-value = "2048";
 }
 );
 interpolationWeight = 72;
@@ -63684,10 +63676,6 @@ value = (
 "2",
 "4"
 );
-},
-{
-name = "Scale to UPM";
-value = "2048";
 }
 );
 interpolationWeight = 90;
@@ -63718,10 +63706,6 @@ value = (
 "2",
 "4"
 );
-},
-{
-name = "Scale to UPM";
-value = "2048";
 }
 );
 interpolationWeight = 118;
