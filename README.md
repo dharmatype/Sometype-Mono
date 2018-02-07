@@ -18,8 +18,8 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 ## Images
 
 
-![/documents/img/SometypeMono_001.png](/documents/img/SometypeMono_001.png)|![/documents/img/SometypeMono_002.png](/documents/img/SometypeMono_002.png)|![/documents/img/SometypeMono_010.png](/documents/img/SometypeMono_010.png)
+![/documentation/img/SometypeMono_001.png](/documentation/img/SometypeMono_001.png)|![/documentation/img/SometypeMono_002.png](/documentation/img/SometypeMono_002.png)|![/documentation/img/SometypeMono_010.png](/documentation/img/SometypeMono_010.png)
 ----|---- |----
-![/documents/img/SometypeMono_005.png](/documents/img/SometypeMono_005.png)|![/documents/img/SometypeMono_006.png](/documents/img/SometypeMono_006.png)|![/documents/img/SometypeMono_003.png](/documents/img/SometypeMono_003.png)
-![/documents/img/SometypeMono_007.png](/documents/img/SometypeMono_007.png)|![/documents/img/SometypeMono_011.png](/documents/img/SometypeMono_011.png)|![/documents/img/SometypeMono_004.png](/documents/img/SometypeMono_004.png)
-![/documents/img/SometypeMono_008.png](/documents/img/SometypeMono_008.png)|![/documents/img/SometypeMono_012.png](/documents/img/SometypeMono_012.png)|![/documents/img/SometypeMono_009.png](/documents/img/SometypeMono_009.png)
+![/documentation/img/SometypeMono_005.png](/documentation/img/SometypeMono_005.png)|![/documentation/img/SometypeMono_006.png](/documentation/img/SometypeMono_006.png)|![/documentation/img/SometypeMono_003.png](/documentation/img/SometypeMono_003.png)
+![/documentation/img/SometypeMono_007.png](/documentation/img/SometypeMono_007.png)|![/documentation/img/SometypeMono_011.png](/documentation/img/SometypeMono_011.png)|![/documentation/img/SometypeMono_004.png](/documentation/img/SometypeMono_004.png)
+![/documentation/img/SometypeMono_008.png](/documentation/img/SometypeMono_008.png)|![/documentation/img/SometypeMono_012.png](/documentation/img/SometypeMono_012.png)|![/documentation/img/SometypeMono_009.png](/documentation/img/SometypeMono_009.png)
