@@ -48,6 +48,7 @@ O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `
 ```js code
 // Javascript code with syntax highlighting.
 describe('awesome server', function() {
+    //before any tests are run, get an instance of AwesomeServer up and
     //  listening for connections    
     var awesomeServer;
     before(function(done) {
@@ -65,6 +66,9 @@ describe('awesome server', function() {
                     done();
                 });
             });
+        });
+    });
+});
 ```
 
 ```ruby
@@ -95,6 +99,8 @@ end
 		</style>
 	</head>
 ```
+
+
 
 ### Italic for quote and captions  
 > This is a blockquote following a header. This is a blockquote following a header.
