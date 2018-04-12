@@ -3,7 +3,7 @@
 ---
 
 ## Short Story
-Sometype Mono is a monospaced font family for coding and tabular layout which licensed under SIL OFL1.1. Designed by  [Ryoichi Tsunekawa](http://dharmatype.com).  Consists of 6 styles so far.
+Sometype Mono is a free monospaced font family for coding and tabular layout which licensed under [the SIL OFL1.1](http://scripts.sil.org/OFL). Designed by  [Ryoichi Tsunekawa](http://dharmatype.com).  Consists of 6 styles so far.
 
 ---
 
