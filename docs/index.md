@@ -45,8 +45,9 @@ O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `
 0 1 2 3 4 5 6 7 8 9
 
 ### Syntax
-```js code
+```js
 // Javascript code with syntax highlighting.
+//leaving the requires out to keep it short
 describe('awesome server', function() {
     //before any tests are run, get an instance of AwesomeServer up and
     //  listening for connections    
@@ -78,7 +79,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-```
+```html
 #html code
 <!DOCTYPE html>
 <html>
