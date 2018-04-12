@@ -39,7 +39,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolo
 
 #### Distinguishability
 O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `  
-0-1-2-3-4-5-6-7-8-9
+
+#### Nicer Figures
+0 1 2 3 4 5 6 7 8 9
 
 #### Syntax
 ```js
