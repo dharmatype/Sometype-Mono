@@ -32,6 +32,7 @@ Our free fonts are free even for commercial use. You can use them without any pu
 But we welcome your support for free font project.  
 Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
+---
 
 ### Sample
 #### Lorem ipsum
