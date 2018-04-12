@@ -2,11 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
-
+@font-face {
+  font-family: Sometype Mono;
+  src: url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-Regular.ttf') format('truetype'),
+}
 body {
   background-color: #000;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+  font-family: Sometype Mono;
 }
