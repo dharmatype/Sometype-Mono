@@ -154,17 +154,17 @@ end
 
 ### Unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   Item foo abcdef
+*   Item bar ghijkl
+*   Item baz mnopqr
+*   Item zip stuvwx
 
 ### Ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1.  Item one 2018 123
+1.  Item two 2019 456
+1.  Item three 2020 789
+1.  Item four 2021 012
 
 ### Nested list:
 
@@ -173,11 +173,3 @@ end
   - level 2 item
     - level 3 item
     - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
