@@ -137,6 +137,28 @@ end
 +--------------------------------------+-----------------+  
 ```
 
+### Unordered list:
+
+*   Item foo abcdef
+*   Item bar ghijkl
+*   Item baz mnopqr
+*   Item zip stuvwx
+
+### Ordered list:
+
+1.  Item 2018 123 one
+1.  Item 2019 456 two
+1.  Item 2020 789 three
+1.  Item 2021 012 four
+
+### Nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+
 ### Images
 ![/assets/img/SometypeMono_001.png](/assets/img/SometypeMono_001.png)  
 ![/assets/img/SometypeMono_002.png](/assets/img/SometypeMono_002.png)  
@@ -150,26 +172,3 @@ end
 ![/assets/img/SometypeMono_008.png](/assets/img/SometypeMono_008.png)  
 ![/assets/img/SometypeMono_012.png](/assets/img/SometypeMono_012.png)  
 ![/assets/img/SometypeMono_009.png](/assets/img/SometypeMono_009.png)  
-
-
-### Unordered list:
-
-*   Item foo abcdef
-*   Item bar ghijkl
-*   Item baz mnopqr
-*   Item zip stuvwx
-
-### Ordered list:
-
-1.  Item one 2018 123
-1.  Item two 2019 456
-1.  Item three 2020 789
-1.  Item four 2021 012
-
-### Nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
