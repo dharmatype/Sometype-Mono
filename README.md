@@ -3,7 +3,7 @@
 ## Monospaced font family
 Sometype Mono is a monospaced font family for coding and tabular layout.  
 Consists of 6 styles so far.  
-monospacedfont.com
+http://monospacedfont.com
 
 
 ## License
