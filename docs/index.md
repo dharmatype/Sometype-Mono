@@ -25,7 +25,10 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 ### Support
 Please support our free font project.
 Our free fonts are free even for commercial use. You can use them without any purchases.
-But we welcome your support for free font project. Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
+But we welcome your support for free font project.  
+Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
+
+### Sample
 
 
 ### Images
@@ -47,7 +50,7 @@ But we welcome your support for free font project. Please visit [http://dharmaty
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, ***italic*** or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
