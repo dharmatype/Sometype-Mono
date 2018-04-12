@@ -10,15 +10,15 @@ Sometype Mono is a free monospaced font family for coding and tabular layout whi
 ## Long Story  
 
 ### About
-Sometype Mono is a free monospaced font family for coding and tabular layout which can bu used for commercial purpose for free.  
+Sometype Mono is a free monospaced font family for coding and tabular layout which can be used for commercial purpose for free.  
 
 
 ### Styles
-So far, Sometype Mono consists 6 style.  
+So far, Sometype Mono consists of 6 style.  
 Regular, _Italic_, (Medium, Medium Italic,) **bold**, ***Bold Italic*** .
 
 ### License
-Sometype Mono is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
+Sometype Mono is licensed under [the SIL Open Font License v1.1](http://scripts.sil.org/OFL)  
 To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Sometype-Mono/blob/master/OFL.txt)
 
 
@@ -27,7 +27,7 @@ To view the copyright and specific terms and conditions please refer to [OFL.txt
 
 
 ### Support
-Please support our free font project.
+Please support our free font project.  
 Our free fonts are free even for commercial use. You can use them without any purchases.
 But we welcome your support for free font project.  
 Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
