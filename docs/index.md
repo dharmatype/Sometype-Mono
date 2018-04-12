@@ -21,8 +21,8 @@ But we welcome your support for free font project. Please visit [http://dharmaty
 
 
 ## Images
-![/documentation/img/SometypeMono_001.png](/documentation/img/SometypeMono_001.png)|![/documentation/img/SometypeMono_002.png](/documentation/img/SometypeMono_002.png)|![/documentation/img/SometypeMono_010.png](/documentation/img/SometypeMono_010.png)
+![/assets/img/SometypeMono_001.png](/assets/img/SometypeMono_001.png)|![/assets/img/SometypeMono_002.png](/assets/img/SometypeMono_002.png)|![/assets/img/SometypeMono_010.png](/assets/img/SometypeMono_010.png)
 ----|---- |----
-![/documentation/img/SometypeMono_005.png](/documentation/img/SometypeMono_005.png)|![/documentation/img/SometypeMono_006.png](/documentation/img/SometypeMono_006.png)|![/documentation/img/SometypeMono_003.png](/documentation/img/SometypeMono_003.png)
-![/documentation/img/SometypeMono_007.png](/documentation/img/SometypeMono_007.png)|![/documentation/img/SometypeMono_011.png](/documentation/img/SometypeMono_011.png)|![/documentation/img/SometypeMono_004.png](/documentation/img/SometypeMono_004.png)
-![/documentation/img/SometypeMono_008.png](/documentation/img/SometypeMono_008.png)|![/documentation/img/SometypeMono_012.png](/documentation/img/SometypeMono_012.png)|![/documentation/img/SometypeMono_009.png](/documentation/img/SometypeMono_009.png)
+![/assets/img/SometypeMono_005.png](/assets/img/SometypeMono_005.png)|![/assets/img/SometypeMono_006.png](/assets/img/SometypeMono_006.png)|![/assets/img/SometypeMono_003.png](/assets/img/SometypeMono_003.png)
+![/assets/img/SometypeMono_007.png](/assets/img/SometypeMono_007.png)|![/assets/img/SometypeMono_011.png](/assets/img/SometypeMono_011.png)|![/assets/img/SometypeMono_004.png](/assets/img/SometypeMono_004.png)
+![/assets/img/SometypeMono_008.png](/assets/img/SometypeMono_008.png)|![/assets/img/SometypeMono_012.png](/assets/img/SometypeMono_012.png)|![/assets/img/SometypeMono_009.png](/assets/img/SometypeMono_009.png)
