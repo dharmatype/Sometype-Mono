@@ -37,6 +37,9 @@ Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 #### Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolor. Vivamus scelerisque gravida lorem, ut viverra nisi. **This is Bold** Aliquam fermentum nunc eget lectus mattis, nec fringilla quam interdum. Curabitur ligula mi, suscipit sit amet auctor vitae, accumsan sit amet neque. Ut turpis orci, euismod at nulla sed, pharetra porta eros. (_This is Italic_) Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec feugiat aliquam ipsum, eget elementum ante euismod vitae. ***This is BoldItalic*** Ut vitae placerat ante.
 
+#### Distinguishability
+O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `
+
 #### Syntax
 ```js
 // Javascript code with syntax highlighting.
