@@ -96,16 +96,6 @@ end
 	</head>
 ```
 
-```
-#css
-#sidebar {
-    float: left;
-    width: 200px;
-    background: #D2B48C;
-    padding: 15px 10px 15px 20px;
-}
-```
-
 ### Italic for quote and captions  
 > This is a blockquote following a header. This is a blockquote following a header.
 > This is a blockquote following a header. This is a blockquote following a header.
