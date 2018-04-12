@@ -46,15 +46,12 @@ O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `
 
 ### Syntax
 ```js
-// Javascript code with syntax highlighting.
-//leaving the requires out to keep it short
-describe('awesome server', function() {
-    //before any tests are run, get an instance of AwesomeServer up and
+describe('somtype server', function() {
     //  listening for connections    
-    var awesomeServer;
+    var SometypeServer;
     before(function(done) {
-        awesomeServer = new AwesomeServer();
-        awesomeServer.listen(1234, function() {
+        sometypeServer = new SometypeServer();
+        sometypeServer.listen(1234, function() {
             done();
         });
     });
@@ -79,8 +76,16 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```css
+#sidebar {
+    float: left;
+    width: 200px;
+    background: #D2B48C;
+    padding: 15px 10px 15px 20px;
+}
+```
+
 ```html
-#html code
 <!DOCTYPE html>
 <html>
 
