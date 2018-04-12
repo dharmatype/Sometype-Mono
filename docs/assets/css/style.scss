@@ -82,3 +82,80 @@ code, pre {
   color:#333;
   font-family:'Sometype Mono';
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color:#000;
+  margin:0 0 20px;
+}
+
+h2 {
+  color:#000;
+}
+
+h3, h4, h5, h6 {
+  color:#000;
+}
+
+a {
+  color:#267CB9;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#069;
+  font-weight: 700;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
+}
+
+dt {
+  color:#000;
+  font-weight:700;
+}
+
+th {
+  color:#000;
+}
+
+header ul a {
+  line-height:1;
+  font-size:11px;
+  color:#676767;
+  display:block;
+  text-align:center;
+  padding-top:6px;
+  height:34px;
+}
+
+header ul a:hover, header ul a:focus {
+  color:#675C5C;
+  font-weight:bold;
+}
+
+strong {
+  color:#000;
+  font-weight:700;
+}
+
+header ul a strong {
+  font-size:14px;
+  display:block;
+  color:#000;
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#000;
+  }
+}
