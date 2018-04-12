@@ -7,66 +7,42 @@
   font-family:'Sometype Mono';
   font-style: normal;
   font-weight: 400;
-  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff2-cffbased/SometypeMono-Regular.woff2') format('woff2'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff-cffbased/SometypeMono-Regular.woff') format('woff'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-Regular.ttf') format('truetype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/otf/SometypeMono-Regular.otf') format('opentype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/eot/SometypeMono-Regular.eot') format('embedded-opentype');		
+  src: url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family:'Sometype Mono';
   font-weight: normal;
   font-weight: 500;
-  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff2-cffbased/SometypeMono-Medium.woff2') format('woff2'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff-cffbased/SometypeMono-Medium.woff') format('woff'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-Medium.ttf') format('truetype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/otf/SometypeMono-Medium.otf') format('opentype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/eot/SometypeMono-Medium.eot') format('embedded-opentype');		
+  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-Medium.ttf') format('truetype');	
 }
 
 @font-face {
   font-family:'Sometype Mono';
   font-weight: normal;
   font-weight: 700;
-  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff2-cffbased/SometypeMono-Bold.woff2') format('woff2'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff-cffbased/SometypeMono-Bold.woff') format('woff'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-Bold.ttf') format('truetype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/otf/SometypeMono-Bold.otf') format('opentype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/eot/SometypeMono-Bold.eot') format('embedded-opentype');		
+  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-Bold.ttf') format('truetype');	
 }
 
 @font-face {
   font-family:'Sometype Mono';
   font-weight: italic;
   font-weight: 400;
-  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff2-cffbased/SometypeMono-RegularItalic.woff2') format('woff2'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff-cffbased/SometypeMono-RegularItalic.woff') format('woff'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-RegularItalic.ttf') format('truetype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/otf/SometypeMono-RegularItalic.otf') format('opentype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/eot/SometypeMono-RegularItalic.eot') format('embedded-opentype');		
+  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-RegularItalic.ttf') format('truetype');	
 }
 
 @font-face {
   font-family:'Sometype Mono';
   font-weight: italic;
   font-weight: 500;
-  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff2-cffbased/SometypeMono-MediumItalic.woff2') format('woff2'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff-cffbased/SometypeMono-MediumItalic.woff') format('woff'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-MediumItalic.ttf') format('truetype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/otf/SometypeMono-MediumItalic.otf') format('opentype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/eot/SometypeMono-MediumItalic.eot') format('embedded-opentype');		
+  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-MediumItalic.ttf') format('truetype');
 }
 
 @font-face {
   font-family:'Sometype Mono';
   font-weight: italic;
   font-weight: 700;
-  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff2-cffbased/SometypeMono-BoldItalic.woff2') format('woff2'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/woff-cffbased/SometypeMono-BoldItalic.woff') format('woff'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-BoldItalic.ttf') format('truetype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/otf/SometypeMono-BoldItalic.otf') format('opentype'),
-		url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/eot/SometypeMono-BoldItalic.eot') format('embedded-opentype');		
+  src:	url('https://github.com/dharmatype/Sometype-Mono/tree/master/fonts/ttf/SometypeMono-BoldItalic.ttf') format('truetype');	
 }
 
 body {
