@@ -117,6 +117,13 @@ a:hover small {
   color:#777;
 }
 
+blockquote {
+  border-left:1px solid #000;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
 dt {
   color:#000;
   font-weight:700;
@@ -150,6 +157,10 @@ header ul a strong {
   font-size:14px;
   display:block;
   color:#000;
+}
+
+small {
+  font-size:12px;
 }
 
 @media print {
