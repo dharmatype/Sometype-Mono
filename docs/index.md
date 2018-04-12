@@ -79,6 +79,29 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+		<link rel="stylesheet" href="css/mui.min.css">
+		<style>
+			html,
+			body {
+				background-color: #efeff4;
+			}
+		</style>
+	</head>
+```
+
+
+
 ### Italic for quote and captions  
 > This is a blockquote following a header. This is a blockquote following a header.
 > This is a blockquote following a header. This is a blockquote following a header.
