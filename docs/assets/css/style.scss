@@ -1,0 +1,9 @@
+---
+@font-face {
+  font-family: '名前';
+  src: url('フォントファイルのパス') format('フォーマット名');
+}
+background-color:#000;
+---
+
+@import "{{ site.theme }}";
