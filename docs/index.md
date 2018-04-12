@@ -45,11 +45,9 @@ O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `
 0 1 2 3 4 5 6 7 8 9
 
 ### Syntax
-```js
+```js code
 // Javascript code with syntax highlighting.
-//leaving the requires out to keep it short
 describe('awesome server', function() {
-    //before any tests are run, get an instance of AwesomeServer up and
     //  listening for connections    
     var awesomeServer;
     before(function(done) {
@@ -67,19 +65,17 @@ describe('awesome server', function() {
                     done();
                 });
             });
-        });
-    });
-});
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
+# Ruby code
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
 
 ```
+#html code
 <!DOCTYPE html>
 <html>
 
@@ -100,7 +96,15 @@ end
 	</head>
 ```
 
-
+```
+#css
+#sidebar {
+    float: left;
+    width: 200px;
+    background: #D2B48C;
+    padding: 15px 10px 15px 20px;
+}
+```
 
 ### Italic for quote and captions  
 > This is a blockquote following a header. This is a blockquote following a header.
