@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolo
 #### Distinguishability
 O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `  
 
-#### Nicer Figures
+#### Nice-Figures
 0 1 2 3 4 5 6 7 8 9
 
 #### Syntax
@@ -98,6 +98,41 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
+#### Italic for quote and captions
+> This is a blockquote following a header.
+> This is a blockquote following a header.
+> When something is important enough, you do it even if the odds are not in your favor.
+
+
+#### Markdown Table
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
+####Plain Text Table
++--------------------------------------+-----------------+
+| Zero and Oh                          | 0 O o           |
++--------------------------------------+-----------------+
+| Ai and El and One and Exclam and Bar | I i L l 1 ! |   |
++--------------------------------------+-----------------+
+| Two and Ze                           | 2 Z z           |
++--------------------------------------+-----------------+
+| Five and Es                          | 5 S s           |
++--------------------------------------+-----------------+
+| Six and be and Eight and Be          | 6 b 8 B         |
++--------------------------------------+-----------------+
+| parenthesis and brackets             | ( { [ ] } )     |
++--------------------------------------+-----------------+
+| Signs and Marks                      | # * ^ ~         |
++--------------------------------------+-----------------+
+| Punctuations                         | . , : ; " ' ’ ` |
++--------------------------------------+-----------------+
+
 
 # Header 1
 ## Header 2
