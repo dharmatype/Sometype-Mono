@@ -15,14 +15,14 @@ Sometype Mono is a free monospaced font family for coding and tabular layout whi
 
 ### Styles
 So far, Sometype Mono consists of 6 style.  
-Regular, _Italic_, (Medium, Medium Italic,) **bold**, ***Bold Italic*** .
+Regular, _Italic_, (Medium, Medium Italic,) **bold**, ***Bold Italic***.
 
 ### License
 Sometype Mono is licensed under [the SIL Open Font License v1.1](http://scripts.sil.org/OFL)  
 To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Sometype-Mono/blob/master/OFL.txt)
 
 
-### Authors
+### Designer
 [Ryoichi Tsunekawa](http://dharmatype.com)  
 
 
@@ -36,7 +36,7 @@ Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
 ## Sample
 ### Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolor. Vivamus scelerisque gravida lorem, ut viverra nisi. **This is Bold** Aliquam fermentum nunc eget lectus mattis, nec fringilla quam interdum. Curabitur ligula mi, suscipit sit amet auctor vitae, accumsan sit amet neque. Ut turpis orci, euismod at nulla sed, pharetra porta eros. (_This is Italic_) Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec feugiat aliquam ipsum, eget elementum ante euismod vitae. ***This is BoldItalic*** Ut vitae placerat ante.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolor. **This is Bold** Vivamus scelerisque gravida lorem, ut viverra nisi. Aliquam fermentum nunc eget lectus mattis, nec fringilla quam interdum. Curabitur ligula mi, suscipit sit amet auctor vitae, accumsan sit amet neque. Ut turpis orci, euismod at nulla sed, pharetra porta eros. (_This is Italic_) Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec feugiat aliquam ipsum, eget elementum ante euismod vitae. ***This is BoldItalic*** Ut vitae placerat ante.
 
 ### Distinguishability
 O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `  
@@ -101,9 +101,9 @@ end
 ```
 
 ### Italic for quote and captions  
-> This is a blockquote following a header.
-> This is a blockquote following a header.
-> When something is important enough, you do it even if the odds are not in your favor.
+> This is a blockquote following a header. This is a blockquote following a header.
+> This is a blockquote following a header. This is a blockquote following a header.
+> This is a blockquote following a header. This is a blockquote following a header.
 
 
 ### Markdown Table  
