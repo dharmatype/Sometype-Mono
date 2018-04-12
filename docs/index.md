@@ -47,50 +47,29 @@ O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `
 ### Syntax
 ```js
 // Javascript code with syntax highlighting.
-var gl;
-var points;
-
-window.onload = function init(){
-    var canvas = document.getElementById( "gl-canvas" );
-     gl = WebGLUtils.setupWebGL( canvas );    
-     if ( !gl ) { alert( "WebGL isn't available" );
-}        
-
-// Three Vertices        
-
-var vertices = [
-        vec2( -1, -1 ),
-        vec2(  0,  0.5 ),
-        vec2(  1, -1 ),
-		vec2(1,1)
-];    
-//  Configure WebGL   
-//    
-    gl.viewport( 0, 0, canvas.width, canvas.height );
-    gl.clearColor( 1.0, 1.0, 1.0, 1.0 );   
-
-//  Load shaders and initialize attribute buffers
-
-    var program = initShaders( gl, "vertex-shader", "fragment-shader" );
-    gl.useProgram( program );        
-
-// Load the data into the GPU        
-
-    var bufferId = gl.createBuffer();
-    gl.bindBuffer( gl.ARRAY_BUFFER, bufferId );
-    gl.bufferData( gl.ARRAY_BUFFER, flatten(vertices), gl.STATIC_DRAW );    
-// Associate out shader variables with our data buffer
-
-      var vPosition = gl.getAttribLocation( program, "vPosition" );
-      gl.vertexAttribPointer( vPosition, 2, gl.FLOAT, false, 0, 0 );
-      gl.enableVertexAttribArray( vPosition );    
-      render();
-};
-
-function render() {
-    gl.clear( gl.COLOR_BUFFER_BIT );
-   gl.drawArrays( gl.TRIANGLE_STRIP, 0, 4 );
-}
+//leaving the requires out to keep it short
+describe('awesome server', function() {
+    //before any tests are run, get an instance of AwesomeServer up and
+    //  listening for connections    
+    var awesomeServer;
+    before(function(done) {
+        awesomeServer = new AwesomeServer();
+        awesomeServer.listen(1234, function() {
+            done();
+        });
+    });
+    it('should respond correctly', function(done) {
+        var dummy = new Dummy(false, 1234, '127.0.0.1', '\n', function() {
+            dummy.send('hey\n', 'you sent : hey', function(expected, data) {
+                expected.should.equal.true;
+                dummy.send('haha\n', 'you sent : haha', function(expected, data) {
+                    expected.should.equal.true;
+                    done();
+                });
+            });
+        });
+    });
+});
 ```
 
 ```ruby
