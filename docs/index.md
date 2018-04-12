@@ -35,56 +35,9 @@ Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
 ### Sample
 #### Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolor. Vivamus scelerisque gravida lorem, ut viverra nisi. **This is Bold** Aliquam fermentum nunc eget lectus mattis, nec fringilla quam interdum. Curabitur ligula mi, suscipit sit amet auctor vitae, accumsan sit amet neque. Ut turpis orci, euismod at nulla sed, pharetra porta eros. _This is Italic_ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec feugiat aliquam ipsum, eget elementum ante euismod vitae. ***This is BoldItalic***Ut vitae placerat ante.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolor. Vivamus scelerisque gravida lorem, ut viverra nisi. **This is Bold** Aliquam fermentum nunc eget lectus mattis, nec fringilla quam interdum. Curabitur ligula mi, suscipit sit amet auctor vitae, accumsan sit amet neque. Ut turpis orci, euismod at nulla sed, pharetra porta eros. (_This is Italic_) Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec feugiat aliquam ipsum, eget elementum ante euismod vitae. ***This is BoldItalic*** Ut vitae placerat ante.
 
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-
-
-#### Images
-![/assets/img/SometypeMono_001.png](/assets/img/SometypeMono_001.png)  
-![/assets/img/SometypeMono_002.png](/assets/img/SometypeMono_002.png)  
-![/assets/img/SometypeMono_010.png](/assets/img/SometypeMono_010.png)  
-![/assets/img/SometypeMono_005.png](/assets/img/SometypeMono_005.png)  
-![/assets/img/SometypeMono_006.png](/assets/img/SometypeMono_006.png)  
-![/assets/img/SometypeMono_003.png](/assets/img/SometypeMono_003.png)  
-![/assets/img/SometypeMono_007.png](/assets/img/SometypeMono_007.png)  
-![/assets/img/SometypeMono_011.png](/assets/img/SometypeMono_011.png)  
-![/assets/img/SometypeMono_004.png](/assets/img/SometypeMono_004.png)  
-![/assets/img/SometypeMono_008.png](/assets/img/SometypeMono_008.png)  
-![/assets/img/SometypeMono_012.png](/assets/img/SometypeMono_012.png)  
-![/assets/img/SometypeMono_009.png](/assets/img/SometypeMono_009.png)  
-
-
----
-layout: default
----
-
-Text can be **bold**, _italic_, ***italic*** or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
+#### Syntax
 ```js
 // Javascript code with syntax highlighting.
 var gl;
@@ -139,6 +92,55 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+
+#### Images
+![/assets/img/SometypeMono_001.png](/assets/img/SometypeMono_001.png)  
+![/assets/img/SometypeMono_002.png](/assets/img/SometypeMono_002.png)  
+![/assets/img/SometypeMono_010.png](/assets/img/SometypeMono_010.png)  
+![/assets/img/SometypeMono_005.png](/assets/img/SometypeMono_005.png)  
+![/assets/img/SometypeMono_006.png](/assets/img/SometypeMono_006.png)  
+![/assets/img/SometypeMono_003.png](/assets/img/SometypeMono_003.png)  
+![/assets/img/SometypeMono_007.png](/assets/img/SometypeMono_007.png)  
+![/assets/img/SometypeMono_011.png](/assets/img/SometypeMono_011.png)  
+![/assets/img/SometypeMono_004.png](/assets/img/SometypeMono_004.png)  
+![/assets/img/SometypeMono_008.png](/assets/img/SometypeMono_008.png)  
+![/assets/img/SometypeMono_012.png](/assets/img/SometypeMono_012.png)  
+![/assets/img/SometypeMono_009.png](/assets/img/SometypeMono_009.png)  
+
+
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, ***italic*** or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+
 
 #### Header 4
 
