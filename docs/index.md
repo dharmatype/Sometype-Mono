@@ -7,7 +7,7 @@ Sometype Mono is a monospaced font family for coding and tabular layout. Consist
 
 ---
 
-## Long Story
+## Long Story  
 
 ### License
 Sometype Mono is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
