@@ -99,13 +99,14 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Italic for quote and captions
+#### Italic for quote and captions  
 > This is a blockquote following a header.
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 
 
-#### Markdown Table
+#### Markdown Table  
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
@@ -114,7 +115,8 @@ end
 | ok           | good `zoute` drop | yumm  |
 
 
-####Plain Text Table
+####Plain Text Table  
+
 +--------------------------------------+-----------------+
 | Zero and Oh                          | 0 O o           |
 +--------------------------------------+-----------------+
