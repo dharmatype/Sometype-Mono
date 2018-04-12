@@ -12,35 +12,35 @@
 
 @font-face {
   font-family:'Sometype Mono';
-  font-weight: normal;
+  font-style: normal;
   font-weight: 500;
   src:	url('https://dharmatype.github.io/Sometype-Mono/assets/fonts/ttf/SometypeMono-Medium.ttf') format('truetype');	
 }
 
 @font-face {
   font-family:'Sometype Mono';
-  font-weight: normal;
+  font-style: normal;
   font-weight: 700;
   src:	url('https://dharmatype.github.io/Sometype-Mono/assets/fonts/ttf/SometypeMono-Bold.ttf') format('truetype');	
 }
 
 @font-face {
   font-family:'Sometype Mono';
-  font-weight: italic;
+  font-style: italic;
   font-weight: 400;
   src:	url('https://dharmatype.github.io/Sometype-Mono/assets/fonts/ttf/SometypeMono-RegularItalic.ttf') format('truetype');	
 }
 
 @font-face {
   font-family:'Sometype Mono';
-  font-weight: italic;
+  font-style: italic;
   font-weight: 500;
   src:	url('https://dharmatype.github.io/Sometype-Mono/assets/fonts/ttf/SometypeMono-MediumItalic.ttf') format('truetype');
 }
 
 @font-face {
   font-family:'Sometype Mono';
-  font-weight: italic;
+  font-style: italic;
   font-weight: 700;
   src:	url('https://dharmatype.github.io/Sometype-Mono/assets/fonts/ttf/SometypeMono-BoldItalic.ttf') format('truetype');	
 }
@@ -50,6 +50,5 @@ body {
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:400;
   font-family:'Sometype Mono';
 }
