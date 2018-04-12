@@ -33,3 +33,10 @@ But we welcome your support for free font project. Please visit [http://dharmaty
 ![/assets/img/SometypeMono_008.png](/assets/img/SometypeMono_008.png)  
 ![/assets/img/SometypeMono_012.png](/assets/img/SometypeMono_012.png)  
 ![/assets/img/SometypeMono_009.png](/assets/img/SometypeMono_009.png)  
+
+
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
