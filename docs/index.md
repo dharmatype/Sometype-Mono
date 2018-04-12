@@ -32,11 +32,21 @@ Our free fonts are free even for commercial use. You can use them without any pu
 But we welcome your support for free font project.  
 Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
+
 ### Sample
 #### Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolor. Vivamus scelerisque gravida lorem, ut viverra nisi. **This is Bold** Aliquam fermentum nunc eget lectus mattis, nec fringilla quam interdum. Curabitur ligula mi, suscipit sit amet auctor vitae, accumsan sit amet neque. Ut turpis orci, euismod at nulla sed, pharetra porta eros. _This is Italic_ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec feugiat aliquam ipsum, eget elementum ante euismod vitae. ***This is BoldItalic***Ut vitae placerat ante.
 
-### Images
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+
+#### Images
 ![/assets/img/SometypeMono_001.png](/assets/img/SometypeMono_001.png)  
 ![/assets/img/SometypeMono_002.png](/assets/img/SometypeMono_002.png)  
 ![/assets/img/SometypeMono_010.png](/assets/img/SometypeMono_010.png)  
