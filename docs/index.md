@@ -83,6 +83,14 @@ end
     background: #D2B48C;
     padding: 15px 10px 15px 20px;
 }
+@font-face {
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Fira Sans"),
+    local("FiraSans-Regular"),
+    url("http://mozilla.github.io/Fira/woff/FiraSans-Regular.woff") format("woff");
+}
 ```
 
 ```html
