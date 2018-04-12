@@ -77,11 +77,6 @@ body {
   font-family:'Sometype Mono';
 }
 
-code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
-  font-family:'Sometype Mono';
-}
 
 h1, h2, h3, h4, h5, h6 {
   color:#000;
@@ -122,6 +117,12 @@ blockquote {
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333;
+  font-family:'Sometype Mono';
 }
 
 dt {
