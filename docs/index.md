@@ -34,17 +34,17 @@ Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
 ---
 
-### Sample
-#### Lorem ipsum
+## Sample
+### Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget auctor dolor. Vivamus scelerisque gravida lorem, ut viverra nisi. **This is Bold** Aliquam fermentum nunc eget lectus mattis, nec fringilla quam interdum. Curabitur ligula mi, suscipit sit amet auctor vitae, accumsan sit amet neque. Ut turpis orci, euismod at nulla sed, pharetra porta eros. (_This is Italic_) Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec feugiat aliquam ipsum, eget elementum ante euismod vitae. ***This is BoldItalic*** Ut vitae placerat ante.
 
-#### Distinguishability
+### Distinguishability
 O o 0  I i L l ! 1 |  2 Z 5 S 6 b 8 B  # * ^ ~  ( { [  . , : ; " ' ’ `  
 
-#### Nice-Figures
+### Nice-Figures
 0 1 2 3 4 5 6 7 8 9
 
-#### Syntax
+### Syntax
 ```js
 // Javascript code with syntax highlighting.
 var gl;
@@ -100,13 +100,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Italic for quote and captions  
+### Italic for quote and captions  
 > This is a blockquote following a header.
 > This is a blockquote following a header.
 > When something is important enough, you do it even if the odds are not in your favor.
 
 
-#### Markdown Table  
+### Markdown Table  
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -116,7 +116,7 @@ end
 | ok           | good `zoute` drop | yumm  |
 
 
-#### Plain Text Table  
+### Plain Text Table  
 ```
 +--------------------------------------+-----------------+  
 | Zero and Oh                          | 0 O o           |  
@@ -137,7 +137,7 @@ end
 +--------------------------------------+-----------------+  
 ```
 
-#### Images
+### Images
 ![/assets/img/SometypeMono_001.png](/assets/img/SometypeMono_001.png)  
 ![/assets/img/SometypeMono_002.png](/assets/img/SometypeMono_002.png)  
 ![/assets/img/SometypeMono_010.png](/assets/img/SometypeMono_010.png)  
@@ -152,21 +152,21 @@ end
 ![/assets/img/SometypeMono_009.png](/assets/img/SometypeMono_009.png)  
 
 
-#### Unordered list:
+### Unordered list:
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-#### Ordered list:
+### Ordered list:
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-#### Nested list:
+### Nested list:
 
 - level 1 item
   - level 2 item
