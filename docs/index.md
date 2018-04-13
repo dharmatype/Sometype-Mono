@@ -13,6 +13,7 @@
 Sometype Mono is a free monospaced font family for coding and tabular layout which can be used for commercial purpose for free.  
 
 ### Download
+You can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs) from  
 [https://github.com/dharmatype/Sometype-Mono](https://github.com/dharmatype/Sometype-Mono)  
 
 ### Styles
