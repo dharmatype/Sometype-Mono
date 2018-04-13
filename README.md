@@ -10,6 +10,8 @@ http://monospacedfont.com
 Sometype Mono is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
 To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/dharmatype/Sometype-Mono/blob/master/OFL.txt)
 
+## Formats
+You can download the font files(.eot, .otf, .ttf, .woff and .woff2) and its source file(.glyphs)
 
 ## Authors
 [Ryoichi Tsunekawa](http://dharmatype.com)  
