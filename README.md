@@ -22,7 +22,7 @@ Please support our free font project.
 Our free fonts are free even for commercial use. You can use them without any purchases.
 But we welcome your support for free font project. Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
-### Other Monospaced Fonts
+## Other Monospaced Fonts
 There are several monospaced fonts designed by Ryoichi Tsunekawa.  
 Please check for Please check for further details from  
 * [Calling Code](https://dharmatype.com/calling-code)  
