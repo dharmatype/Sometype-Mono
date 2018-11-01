@@ -36,9 +36,9 @@ But we welcome your support for free font project.
 Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
 ### Other Monospaced Fonts
-There are several monospaced fonts designed by Ryoichi Tsunekawa.
-[Calling Code](https://dharmatype.com/calling-code)
-[Code Saver](https://dharmatype.com/code-saver)
+There are several monospaced fonts designed by Ryoichi Tsunekawa.  
+[Calling Code](https://dharmatype.com/calling-code)  
+[Code Saver](https://dharmatype.com/code-saver)  
 ---
 
 ## Sample
