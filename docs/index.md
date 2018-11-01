@@ -37,6 +37,7 @@ Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
 ### Other Monospaced Fonts
 There are several monospaced fonts designed by Ryoichi Tsunekawa.  
+Please check for Please check for further details from  
 [Calling Code](https://dharmatype.com/calling-code)  
 [Code Saver](https://dharmatype.com/code-saver)  
 
