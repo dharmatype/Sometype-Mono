@@ -22,6 +22,11 @@ Please support our free font project.
 Our free fonts are free even for commercial use. You can use them without any purchases.
 But we welcome your support for free font project. Please visit [http://dharmatype.com/support](http://dharmatype.com/support)
 
+### Other Monospaced Fonts
+There are several monospaced fonts designed by Ryoichi Tsunekawa.  
+Please check for Please check for further details from  
+* [Calling Code](https://dharmatype.com/calling-code)  
+* [Code Saver](https://dharmatype.com/code-saver)  
 
 ## Images
 ![/documentation/img/SometypeMono_001.png](/documentation/img/SometypeMono_001.png)|![/documentation/img/SometypeMono_002.png](/documentation/img/SometypeMono_002.png)|![/documentation/img/SometypeMono_010.png](/documentation/img/SometypeMono_010.png)
