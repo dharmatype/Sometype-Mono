@@ -1,5 +1,8 @@
 {
 .appVersion = "1264";
+DisplayStrings = (
+Kthrth
+);
 classes = (
 {
 code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Germandbls";
@@ -292,11 +295,11 @@ capHeight = 650;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 918;
 },
 {
 name = typoDescender;
-value = -250;
+value = -222;
 },
 {
 name = typoLineGap;
@@ -312,11 +315,11 @@ value = 295;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 918;
 },
 {
 name = hheaDescender;
-value = -300;
+value = -222;
 },
 {
 name = hheaLineGap;
@@ -384,11 +387,11 @@ capHeight = 650;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 918;
 },
 {
 name = typoDescender;
-value = -250;
+value = -222;
 },
 {
 name = typoLineGap;
@@ -404,11 +407,11 @@ value = 295;
 },
 {
 name = hheaAscender;
-value = 950;
+value = 918;
 },
 {
 name = hheaDescender;
-value = -300;
+value = -222;
 },
 {
 name = hheaLineGap;
