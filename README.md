@@ -25,6 +25,7 @@ But we welcome your support for free font project. Please visit [http://dharmaty
 ## Other Monospaced Fonts
 There are several monospaced fonts designed by Ryoichi Tsunekawa.  
 Please check for Please check for further details from  
+* [Best Choice](https://dharmatype.com/best-choice)  
 * [Calling Code](https://dharmatype.com/calling-code)  
 * [Code Saver](https://dharmatype.com/code-saver)  
 
