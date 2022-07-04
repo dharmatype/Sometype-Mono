@@ -3,7 +3,7 @@
 ## Monospaced font family
 Sometype Mono is a monospaced font family for coding and tabular layout.  
 Consists of 6 styles so far.  
-http://monospacedfont.com
+http://monospacedfonts.com
 
 
 ## License
@@ -28,6 +28,8 @@ Please check for Please check for further details from
 * [Best Choice](https://dharmatype.com/best-choice)  
 * [Calling Code](https://dharmatype.com/calling-code)  
 * [Code Saver](https://dharmatype.com/code-saver)  
+* [Debugger](https://dharmatype.com/debugger)  
+* [Senpai Coder](https://dharmatype.com/senpai-coder)  
 
 ## Images
 ![/documentation/img/SometypeMono_001.png](/documentation/img/SometypeMono_001.png)|![/documentation/img/SometypeMono_002.png](/documentation/img/SometypeMono_002.png)|![/documentation/img/SometypeMono_010.png](/documentation/img/SometypeMono_010.png)
