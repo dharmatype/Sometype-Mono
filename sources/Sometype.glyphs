@@ -38577,36 +38577,6 @@ unicode = 2008;
 },
 {
 color = 6;
-glyphname = CR;
-layers = (
-{
-layerId = "B9B856C8-1FA2-46F4-A929-F36A99765E59";
-width = 580;
-},
-{
-layerId = "27302DAC-E04E-41A7-B2D2-BD8305143A0A";
-width = 580;
-}
-);
-unicode = 000D;
-},
-{
-color = 6;
-glyphname = NULL;
-layers = (
-{
-layerId = "B9B856C8-1FA2-46F4-A929-F36A99765E59";
-width = 0;
-},
-{
-layerId = "27302DAC-E04E-41A7-B2D2-BD8305143A0A";
-width = 0;
-}
-);
-unicode = 0000;
-},
-{
-color = 6;
 glyphname = .notdef;
 layers = (
 {
@@ -40859,45 +40829,6 @@ width = 580;
 unicode = 002D;
 },
 {
-color = 10;
-glyphname = softhyphen;
-layers = (
-{
-background = {
-components = (
-{
-name = hyphen;
-}
-);
-};
-components = (
-{
-name = hyphen;
-}
-);
-layerId = "B9B856C8-1FA2-46F4-A929-F36A99765E59";
-width = 580;
-},
-{
-background = {
-components = (
-{
-name = hyphen;
-}
-);
-};
-components = (
-{
-name = hyphen;
-}
-);
-layerId = "27302DAC-E04E-41A7-B2D2-BD8305143A0A";
-width = 580;
-}
-);
-unicode = 00AD;
-},
-{
 color = 6;
 glyphname = endash;
 layers = (
@@ -41121,44 +41052,6 @@ components = (
 {
 name = hyphen;
 transform = "{1, 0, 0, 1, 0, 47}";
-}
-);
-layerId = "27302DAC-E04E-41A7-B2D2-BD8305143A0A";
-width = 580;
-}
-);
-},
-{
-color = 10;
-glyphname = softhyphen.case;
-layers = (
-{
-background = {
-components = (
-{
-name = hyphen.case;
-}
-);
-};
-components = (
-{
-name = hyphen.case;
-}
-);
-layerId = "B9B856C8-1FA2-46F4-A929-F36A99765E59";
-width = 580;
-},
-{
-background = {
-components = (
-{
-name = hyphen.case;
-}
-);
-};
-components = (
-{
-name = hyphen.case;
 }
 );
 layerId = "27302DAC-E04E-41A7-B2D2-BD8305143A0A";
