@@ -330,11 +330,11 @@ capHeight = 650;
 customParameters = (
 {
 name = typoAscender;
-value = 918;
+value = 925;
 },
 {
 name = typoDescender;
-value = -222;
+value = -275;
 },
 {
 name = typoLineGap;
@@ -350,11 +350,11 @@ value = 295;
 },
 {
 name = hheaAscender;
-value = 918;
+value = 925;
 },
 {
 name = hheaDescender;
-value = -222;
+value = -275;
 },
 {
 name = hheaLineGap;
@@ -418,11 +418,11 @@ capHeight = 650;
 customParameters = (
 {
 name = typoAscender;
-value = 918;
+value = 925;
 },
 {
 name = typoDescender;
-value = -222;
+value = -275;
 },
 {
 name = typoLineGap;
@@ -438,11 +438,11 @@ value = 295;
 },
 {
 name = hheaAscender;
-value = 918;
+value = 925;
 },
 {
 name = hheaDescender;
-value = -222;
+value = -275;
 },
 {
 name = hheaLineGap;
@@ -64067,6 +64067,27 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "LayerGeek;cleanUpPaths";
+},
+{
+name = panose;
+value = (
+2,
+11,
+7,
+9,
+2,
+2,
+3,
+3,
+2,
+4
+);
+}
+);
 interpolationWeight = 104;
 instanceInterpolations = {
 "27302DAC-E04E-41A7-B2D2-BD8305143A0A" = 0.69565;
@@ -64086,7 +64107,7 @@ name = panose;
 value = (
 2,
 11,
-7,
+8,
 9,
 2,
 2,
