@@ -30,6 +30,21 @@ name = "Use Line Breaks";
 value = 1;
 },
 {
+name = panose;
+value = (
+2,
+11,
+0,
+9,
+2,
+2,
+3,
+3,
+2,
+4
+);
+},
+{
 name = licenseURL;
 value = "https://scripts.sil.org/OFL";
 },
