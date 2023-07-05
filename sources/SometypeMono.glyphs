@@ -64067,6 +64067,15 @@ name = Medium;
 weightClass = Medium;
 },
 {
+interpolationWeight = 104;
+instanceInterpolations = {
+"27302DAC-E04E-41A7-B2D2-BD8305143A0A" = 0.69565;
+"B9B856C8-1FA2-46F4-A929-F36A99765E59" = 0.30435;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
 customParameters = (
 {
 name = Filter;
